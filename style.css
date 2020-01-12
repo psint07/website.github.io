@@ -407,11 +407,11 @@ a img.aligncenter {
 }
 
 .in-box{
-	background: #5a4091;
+	background: #292a2b;
 	display: inline-block;
 	padding: 40px;
 	position: relative;
-	border: 20px solid #432382;
+	border: 20px solid #17a2b84d;
 }
 .in-box::before{
 	border: 10px solid #ffffff;
@@ -748,8 +748,8 @@ xclip
 
 .right-box-pro{
 	position: relative;
-	-webkit-box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0.3);
-	box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0);
+	box-shadow: 0px 0px 30px -4px rgba(0, 0, 0, 0);
 }
 .right-box-pro img{
 	position: relative;
@@ -757,7 +757,7 @@ xclip
 }
 .right-box-pro::before {
     content: "";
-    background: #432382;
+    background: #000000;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -767,7 +767,7 @@ xclip
 }
 .right-box-pro::after {
     content: "";
-    background: #432382;
+    background: #000000;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -792,7 +792,7 @@ xclip
 	height: 90px;
 	text-align: center;
 	line-height: 90px;
-	background: #432382;
+	background: #003333;
 	margin: 0 auto;
 }
 .ser-icon i{
@@ -1482,7 +1482,7 @@ xclip
 
 .message-box ul{}
 .message-box ul li{
-	background: #432382;
+	background: #003333;
 	padding: 10px 20px;
 	margin-bottom: 10px;
 	color: #ffffff;
